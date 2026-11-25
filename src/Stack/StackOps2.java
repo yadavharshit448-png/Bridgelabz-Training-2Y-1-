@@ -1,6 +1,7 @@
 package Stack;
 
-public class StackOps2 {
+public class
+StackOps2 {
 
     int ar[];
     int top = 0;
