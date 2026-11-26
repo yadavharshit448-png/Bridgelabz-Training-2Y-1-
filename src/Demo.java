@@ -11,7 +11,7 @@ public class Demo {
         q.add(3);
         q.add(5);
         System.out.println(q);
-        System.out.println("afer this offer method will try to add the element but the capacity is only 3 so it will handel the exception and continue working ");
+        System.out.println("afer this offer method will try to add the element but the capacity is only 3 so it will handle the exception and continue working ");
         q.offer(6);
         System.out.println(q);
         System.out.println("now removing using remove() method ");
